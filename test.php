@@ -8,7 +8,7 @@ $message = "this is a mail testing email function on server";
 $sendMail = mail($email, $subject, $message);
 if($sendMail)
 {
-echo "Email Sent Successfully";
+echo "Email Sent Successfully 123";
 }
 else
 
